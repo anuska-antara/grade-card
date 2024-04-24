@@ -5,11 +5,11 @@ This project is a simple Grade Card Generator for students implemented in C prog
 ## how to use
 
 1. Download the project files to your local machine.
-2. Compile the program using a C compiler (e.g., gcc).
+2. Compile the program using a C compiler (e.g., gcc) in GitBash
    cd case-study
-   gcc main.c std_detail.c marks_entry.c grade.c display.c -o makeFile
+   gcc main.c std_detail.c marks_entry.c grade.c display.c -o all
 3. Run the compiled executable.
-   ./makeFile
+   ./all
 4. Follow the prompts to input student details and marks for ISA 1, ISA 2, and ESA.
 5. Choose whether to calculate grades.
 6. View the results and grade card generated.
