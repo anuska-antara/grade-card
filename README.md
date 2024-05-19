@@ -6,13 +6,14 @@ This project is a simple Grade Card Generator for students implemented in C prog
 
 1. Download the project files to your local machine.
 2. Compile the program using a C compiler (e.g., gcc) in GitBash
-   command to compile: mingw32 -make -f makefile
-   gcc main.c entry.c std_detail.c calculate.c displays.c -o all
-3. Run the compiled executable.
-   ./all
-4. Follow the prompts to input student details and marks for ISA 1, ISA 2, and ESA.
-5. Choose whether to calculate grades.
-6. View the results and grade card generated.
+
+   command to compile: mingw32-make
+   
+4. Run the compiled executable. (for Phase 3)
+   ./calc_card
+5. Follow the prompts to input student details and marks for ISA 1, ISA 2, and ESA.
+6. Choose whether to calculate grades.
+7. View the results and grade card generated.
 
 ## example usage
 
